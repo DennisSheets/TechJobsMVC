@@ -11,4 +11,7 @@ namespace TechJobsMVC.Data
             return x.ToString().ToLower().CompareTo(y.ToString().ToLower());
         }
     }
+
+
+
 }
